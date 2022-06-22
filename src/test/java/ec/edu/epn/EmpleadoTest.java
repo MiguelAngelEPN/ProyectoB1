@@ -38,7 +38,7 @@ public class EmpleadoTest {
     @Test
     public void testEsNombreValido() {
         System.out.println("esNombreValido");
-        String nombre = "Andrés";
+        String nombre = "Andr@s";
         Empleado instance = new Empleado();
         boolean expResult = false;
         boolean result = instance.esNombreValido(nombre);
@@ -83,9 +83,9 @@ public class EmpleadoTest {
     @Test
     public void testEsCorreoValido() {
         System.out.println("esCorreoValido");
-        String correo = "";
+        String correo = "lizbeth@gmail.com";
         Empleado instance = new Empleado();
-        boolean expResult = false;
+        boolean expResult = true;
         boolean result = instance.esCorreoValido(correo);
         assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
@@ -98,9 +98,9 @@ public class EmpleadoTest {
     @Test
     public void testEsTelefonoValido() {
         System.out.println("esTelefonoValido");
-        String telefono = "";
+        String telefono = "0983007423";
         Empleado instance = new Empleado();
-        boolean expResult = false;
+        boolean expResult = true;
         boolean result = instance.esTelefonoValido(telefono);
         assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
