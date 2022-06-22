@@ -6,14 +6,14 @@ package ec.edu.epn;
  */
 public class Sucursal {
 
-    private final int tamaño = 13;
+    private final int tamanio = 13;
     private int numSucursal;
     private String[] arregloSucursal;
 
     // Constructor
     public Sucursal(int numSucursal) {
         this.numSucursal = numSucursal;
-        this.arregloSucursal = new String[tamaño];
+        this.arregloSucursal = new String[tamanio];
         for (int i = 0; i < this.arregloSucursal.length; i++) {
             this.arregloSucursal[i] = "";
         }

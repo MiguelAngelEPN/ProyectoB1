@@ -6,25 +6,25 @@ package ec.edu.epn;
  */
 public class TablaHashEnlazadaEmpleados {
 
-    private final int tamaño = 4;
+    private final int tamanio = 4;
     private NodoEmpleado[] tabla;
 
     public TablaHashEnlazadaEmpleados() {
-        tabla = new NodoEmpleado[tamaño];
-        for (int i = 0; i < tamaño; i++) {
+        tabla = new NodoEmpleado[tamanio];
+        for (int i = 0; i < tamanio; i++) {
             tabla[i] = null;
         }
     }
 
-    public TablaHashEnlazadaEmpleados(int tamaño){
-        tabla = new NodoEmpleado[tamaño];
-        for (int i = 0; i < tamaño; i++) {
+    public TablaHashEnlazadaEmpleados(int tamanio){
+        tabla = new NodoEmpleado[tamanio];
+        for (int i = 0; i < tamanio; i++) {
             tabla[i] = null;
         }
     }
 
     public int aritmeticaModular(int clave){
-        return clave%this.tamaño;
+        return clave%this.tamanio;
     }
 
     public void insertar(String codigo) {
