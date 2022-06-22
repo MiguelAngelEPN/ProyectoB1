@@ -1,0 +1,21 @@
+CT-0001,Fernando,Cedeño,Contador,1,Av. El Salvador,fernando.cedenio@gmail.com,0980114607
+VD-0004,Flor,Nieto,Vendedor,1,Av. Eloy Alfaro,flor.nieto@gmail.com,0987917801
+VD-0005,Ethan,Trujillo,Vendedor,2,Av. 12 de Octubre,ethan.trujillo@gmail.com,0996395963
+VD-0006,Melanie,Mendoza,Vendedor,3,Av. San Gabriel,melanie.mendoza@gmail.com,0960948754
+VD-0007,Carlos,Díaz,Vendedor,0,Av. Marianitas,carlos.diaz@gmail.com,0912345678
+VD-0008,Anthony,Mora,Vendedor,1,Av. 6 de Diciembre,anthony.mora@gmail.com,0979170433
+VD-0016,Carme,Toapanta,Vendedor,1,Av. NNUU,carmen.toapanta@gmail.com,0986865213
+VD-0017,Margarita,Lopez,Vendedor,2,Av. Maldonado y Susana Letor,margarita.lopez@gmail.com,0986521111
+VD-0018,Isabel,Ruiz,Vendedor,3,Antiguo Aeropuerto,isabel.ruiz@gmail.com,0923487512
+VD-0019,Mario,Tipan,Vendedor,0,Av. Eloy Alfaro,mario.tipan@gmail.com,0965658213
+VD-0020,Rodrigo,Robles,Vendedor,1,Av.El Maestro,rodrigo.robles@gmail.com,0913865213
+VD-0021,Estefania,Lorna,Vendedor,2,Av. Gaspar de Villaroel,estefania.lorna@gmail.com,0985213686
+VD-0022,Lucia,Ortiz,Vendedor,3,Av. 6 de Diciembre,lucia.ortiz@gmail.com,0982356894
+VD-0023,Macarena,Alcivar,Vendedor,0,Av. Robles y Ricardo Arteaga,macarena.alcivar@gmail.com,097856235
+VD-2169,Andrés,Cantos,Vendedor,3,Av. La Prensa,andres.santos@gmail.com,0998516978
+VD-5386,Erick,Freire,Vendedor,2,Tomates,erick.freire@gmail.com,0998765432
+﻿GG-0001,Monica,Espinoza,Gerente General,0,Av. de las Américas,monica.espinoza@gmail.com,0993116975
+CT-8080,Valentina,Turi,Contador,2,Chillogallo,valentina@gmail.com,0123456789
+VD-0003,Santiago,Pérez,Vendedor,0,Av. Eloy Alfaro,santiago.perez.tigrero@gmail.com,0987917639
+VD-4423,Cristopher,Perez,Vendedor,3,Los Libertadores,cristopher.perez@gmail.com,0983007423
+VD-0002,Ariel,Rosero,Vendedor,3,La comuna  ,ariel.rosero@gmail.com,0969827278

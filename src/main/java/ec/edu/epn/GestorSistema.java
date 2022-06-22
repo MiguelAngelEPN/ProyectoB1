@@ -7,6 +7,8 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 import java.util.StringTokenizer;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
 import javax.swing.JOptionPane;
 
 /**
@@ -1027,6 +1029,7 @@ public class GestorSistema {
         File archivo = null;
         FileReader fr = null;
         BufferedReader br = null;
+
         try {
             archivo = new File("registroEmpleados2.txt");
             fr = new FileReader(archivo);
